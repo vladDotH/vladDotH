@@ -3,6 +3,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladDotH)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,ts,ts,ts,ts,ts,ts,ts,ts,ts,js,js,js,js,js,js,js,js,js,js&perline=10)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,vue,vite,nestjs,html,css,sass,docker,nginx,redis,mongodb,py,c,cpp,java,haskell,latex&perline=10)](https://skillicons.dev)
