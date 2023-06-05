@@ -11,8 +11,8 @@
 
 ### 🛠️ Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,vite,sequelize,sass,docker,nginx,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,vite,sequelize,sass,docker,nginx)](https://skillicons.dev)
 
 ### 🔧 Also used:
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,py,c,cpp,java,haskell,latex&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redis,mongodb,py,c,cpp,java,haskell,latex&perline=10)](https://skillicons.dev)
