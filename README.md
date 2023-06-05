@@ -7,11 +7,11 @@
 
 ### 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,vue,nestjs,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,vue,nestjs,postgres,sass)](https://skillicons.dev)
 
 ### 🛠️ Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,vite,sequelize,sass,docker,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,vite,sequelize,docker,nginx)](https://skillicons.dev)
 
 ### 🔧 Also used:
 
