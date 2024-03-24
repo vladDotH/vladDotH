@@ -15,4 +15,4 @@
 
 ### 🔧 Also used:
 
-[![My Skills](https://skillicons.dev/icons?i=redis,mongodb,scala,kotlin,rust,py,c,cpp,java,haskell,latex&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redis,mongodb,scala,kotlin,rust,py,c,cpp,java,haskell,latex&perline=6)](https://skillicons.dev)
