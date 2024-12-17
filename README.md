@@ -7,7 +7,7 @@
 
 ### 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,vue,nestjs,postgres,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,go,vue,nestjs,postgres,sass)](https://skillicons.dev)
 
 ### 🛠️ Tools:
 
@@ -15,4 +15,4 @@
 
 ### 🔧 Also used:
 
-[![My Skills](https://skillicons.dev/icons?i=redis,mongodb,go,scala,kotlin,rust,py,c,cpp,java,haskell,latex&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redis,mongodb,scala,kotlin,rust,py,c,cpp,java,haskell,latex&perline=6)](https://skillicons.dev)
